@@ -1,0 +1,163 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>1 h.PNG</file>
+        <file>2 he.PNG</file>
+        <file>3 li.PNG</file>
+        <file>4 be.PNG</file>
+        <file>5 b.PNG</file>
+        <file>6 c.PNG</file>
+        <file>7 n.PNG</file>
+        <file>8 o.PNG</file>
+        <file>9 f.PNG</file>
+        <file>10 ne.PNG</file>
+        <file>11 na.PNG</file>
+        <file>12 mg.PNG</file>
+        <file>13 al.PNG</file>
+        <file>14 sl.PNG</file>
+        <file>15 p.PNG</file>
+        <file>16 s.PNG</file>
+        <file>17 cl.PNG</file>
+        <file>18 ar.PNG</file>
+        <file>19 k.PNG</file>
+        <file>20 ca.PNG</file>
+        <file>21 sc.PNG</file>
+        <file>22 ti.PNG</file>
+        <file>23 v.PNG</file>
+        <file>24 cr.PNG</file>
+        <file>25 mn.PNG</file>
+        <file>26 fe.PNG</file>
+        <file>27 co.PNG</file>
+        <file>28 ni.PNG</file>
+        <file>29 cu.PNG</file>
+        <file>30 zn.PNG</file>
+        <file>31 ga.PNG</file>
+        <file>32 ge.PNG</file>
+        <file>33 as.PNG</file>
+        <file>34 se.PNG</file>
+        <file>35 br.PNG</file>
+        <file>36 kr.PNG</file>
+        <file>37 rb.PNG</file>
+        <file>38 sr.PNG</file>
+        <file>39 y.PNG</file>
+        <file>40 zr.PNG</file>
+        <file>41 nb.PNG</file>
+        <file>42 mo.PNG</file>
+        <file>43 tc.PNG</file>
+        <file>44 ru.PNG</file>
+        <file>45 rh.PNG</file>
+        <file>46 pd.PNG</file>
+        <file>47 ag.PNG</file>
+        <file>48 cd.PNG</file>
+        <file>49 ir.PNG</file>
+        <file>50 sn.PNG</file>
+        <file>51 sb.PNG</file>
+        <file>52 te.PNG</file>
+        <file>53 i.PNG</file>
+        <file>54 xe.PNG</file>
+        <file>55 cs.PNG</file>
+        <file>56 ba.PNG</file>
+        <file>57 la.PNG</file>
+        <file>58 ce.PNG</file>
+        <file>59 pr.PNG</file>
+        <file>60 nd.PNG</file>
+        <file>61 pm.PNG</file>
+        <file>62 sm.PNG</file>
+        <file>63 eu.PNG</file>
+        <file>64 gd.PNG</file>
+        <file>65 tb.PNG</file>
+        <file>66 dy.PNG</file>
+        <file>67 ho.PNG</file>
+        <file>68 er.PNG</file>
+        <file>69 tm.PNG</file>
+        <file>70 yb.PNG</file>
+        <file>71 Lu.PNG</file>
+        <file>72 hf.PNG</file>
+        <file>74 w.PNG</file>
+        <file>75 re.PNG</file>
+        <file>76 os.PNG</file>
+        <file>77 ir.PNG</file>
+        <file>78 pt.PNG</file>
+        <file>79 au.PNG</file>
+        <file>80 hg.PNG</file>
+        <file>81 tl.PNG</file>
+        <file>82 pb.PNG</file>
+        <file>83 bi.PNG</file>
+        <file>84 po.PNG</file>
+        <file>85 at.PNG</file>
+        <file>86 rn.PNG</file>
+        <file>87 fr.PNG</file>
+        <file>88 ra.PNG</file>
+        <file>89 ac.PNG</file>
+        <file>90 th.PNG</file>
+        <file>91 pa.PNG</file>
+        <file>92 u.PNG</file>
+        <file>93 np.PNG</file>
+        <file>94 pu.PNG</file>
+        <file>95 am.PNG</file>
+        <file>96 cm.PNG</file>
+        <file>97 bk.PNG</file>
+        <file>98 cf.PNG</file>
+        <file>99 es.PNG</file>
+        <file>100 fm.PNG</file>
+        <file>101 md.PNG</file>
+        <file>102 no.PNG</file>
+        <file>103 lr.PNG</file>
+        <file>104 rf.PNG</file>
+        <file>105 db.PNG</file>
+        <file>106 sg.PNG</file>
+        <file>107 bh.PNG</file>
+        <file>108 hs.PNG</file>
+        <file>109 mt.PNG</file>
+        <file>110 ds.PNG</file>
+        <file>111 rg.PNG</file>
+        <file>112 cn.PNG</file>
+        <file>113 nh.PNG</file>
+        <file>114 fl.PNG</file>
+        <file>115 mc.PNG</file>
+        <file>116 lv.PNG</file>
+        <file>117 ts.PNG</file>
+        <file>118 og.PNG</file>
+        <file>left.png</file>
+        <file>right.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>8.png</file>
+        <file>9.png</file>
+        <file>10.png</file>
+        <file>11.png</file>
+        <file>12.png</file>
+        <file>13.png</file>
+        <file>14.png</file>
+        <file>15.png</file>
+        <file>16.png</file>
+        <file>17.png</file>
+        <file>18.png</file>
+        <file>19.png</file>
+        <file>20.png</file>
+        <file>21.png</file>
+        <file>22.png</file>
+        <file>23.png</file>
+        <file>24.png</file>
+        <file>25.png</file>
+        <file>26.png</file>
+        <file>27.png</file>
+        <file>28.png</file>
+        <file>29.png</file>
+        <file>30.png</file>
+        <file>31.png</file>
+        <file>32.png</file>
+        <file>33.png</file>
+        <file>34.png</file>
+        <file>35.png</file>
+        <file>36.png</file>
+        <file>37.png</file>
+        <file>38.png</file>
+        <file>39.png</file>
+        <file>40.png</file>
+    </qresource>
+</RCC>
